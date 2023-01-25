@@ -6,7 +6,7 @@ Por isso, preencha os dados abaixo e siga os passos do fluxo de Git.
 
 Nome: Bárbara 
 Idade: 33
-Estado: PB/MT
+Estado: MT/PB
 
 Na hora de fazer o git push, seu terminal irá pedir a informação do token. Insira esse dado e continue.
 Se tiver qualquer problema ou dúvidas, peça ajuda no fórum!
